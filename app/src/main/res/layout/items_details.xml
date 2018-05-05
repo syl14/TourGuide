@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/linearlayout">
+
+    <ImageView
+        android:id="@+id/image_view"
+        style="@style/imageicon"
+        tools:src="@drawable/parlament" />
+
+    <LinearLayout style="@style/linearlayout2">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/name" />
+        <!--Address of the place-->
+        <TextView
+            android:id="@+id/address_text_view"
+            style="@style/address" />
+    </LinearLayout>
+
+</LinearLayout>
+
+

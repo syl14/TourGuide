@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_image_height">300dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="heightOfElement">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="sizeOfTabText">80sp</dimen>
+    <dimen name="textSizeOfAddress">12sp</dimen>
+    <!-- Text in sp -->
+</resources>

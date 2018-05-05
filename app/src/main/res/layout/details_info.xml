@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/detail_image_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            style="@style/collapsingToolbar"
+            app:contentScrim="@color/barcolor"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:statusBarScrim="@color/barcolor">
+
+            <ImageView
+                android:id="@+id/bigPicture"
+                style="@style/Imagedetails"
+                app:layout_collapseMode="parallax" />
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:id="@+id/linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="40dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="15dp">
+
+                <ImageButton
+                    android:id="@+id/web"
+                    android:contentDescription="web"
+                    style="@style/imagebutton"
+                    android:src="@drawable/browser"/>
+
+                <ImageButton
+                    android:id="@+id/telephone"
+                    android:contentDescription="phone"
+                    style="@style/imagebutton"
+                    android:src="@drawable/telephone" />
+
+                <ImageButton
+                    android:id="@+id/location"
+                    android:contentDescription="location"
+                    style="@style/imagebutton"
+                    android:src="@drawable/location" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/nameDetail"
+                style="@style/detailsPlaceName"
+                android:layout_below="@+id/linearlayout" />
+
+            <TextView
+                android:id="@+id/placeDetail"
+                style="@style/detailsPlaceAddress"
+                android:layout_below="@+id/nameDetail" />
+
+            <TextView
+                android:id="@+id/textInfo"
+                style="@style/Info" />
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+</android.support.design.widget.CoordinatorLayout>

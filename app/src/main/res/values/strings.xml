@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">Tour_Guide_BP</string>
+
+    <string name="address">address</string>
+    <string name="place">place</string>
+    <string name="info">info</string>
+    <string name="picture">picture</string>
+    <string name="web">web</string>
+    <string name="gps">gps</string>
+    <string name="phone">phone</string>
+    <string name="telefon">tel:</string>
+    <string name="goTo">google.navigation:q=</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_night">Night in the city</string>
+    <string name="category_view">Best Views in the city</string>
+    <string name="category_fun">The best places</string>
+    <string name="category_restaurant">Restaurant</string>
+
+    <string name="the_image_of_the_place">The image of the place</string>
+
+    <!--Parlament-->
+    <string name="parlament">Hungarian Parlament Building</string>
+    <string name="parlament_address">Budapest, Kossuth Lajos tér 1-3, 1055</string>
+    <string name="parlament_info">Not to be outdone by its Neo-Gothic façade, the interior of Hungary s parliament boasts stunning frescoes,
+        statues, and stained glass mosaics, as well as the Holy Crown of Hungary! Országház which translates to House of the Country or House of the Nation), also known as the Parliament of Budapest
+        for being located in that city, is the seat of the National Assembly of Hungary, a notable landmark of Hungary and a popular tourist destination of Budapest. It lies in Lajos Kossuth Square,
+        on the bank of the Danube. It is currently the largest building in Hungary and still the tallest building in Budapest </string>
+    <string name="parlament_phone">+36 1 441 40 00</string>
+    <string name="parlament_web">http://www.parlament.hu/</string>
+
+    <!--Chain Bridge-->
+    <string name="chain">Chain Bridge</string>
+    <string name="chain_info">Considered a wonder of the modern world upon its completion in 1849, Chain Bridge was the
+    first to span the city\'s Danube river, eventually uniting Buda and Pest as one city. Chief engineer Adam Clark, a master builder from Scotland,
+        completed the span in 1849. Legend has it that he was so proud of his masterpiece he would challenge anyone to find any fault with his work.
+        When it was discovered that the lions at either ends of the bridge didn't have tongues, he was so ashamed that he committed suicide. This of course is only an anecdote. </string>
+    <string name="chain_address">Budapest, Széchenyi Lánchíd, 1051</string>
+    <string name="chain_web">http://visitbudapest.travel/guide/budapest-attractions/chain-bridge/</string>
+    <string name="chain_phone">+36 1 441 40 00</string>
+
+    <!--Andrassy-->
+    <string name="andrasy">Andrássy Avenue</string>
+    <string name="andrasy_info">Andrássy Avenue, recognized as a World Heritage Site, was built to connect the city center with City Park (Városliget).
+        Construction began in 1872, and the avenue was inaugurated in 1885. Its Eclectic Neo-Renaissance palaces and houses were built by the most distinguished architects of the time.
+        The iconic avenue was named after Prime Minister Gyula Andrássy, a key advocate of the project.</string>
+    <string name="andrasy_address">Andrássy út, Budapest</string>
+    <string name="andrassy_phone">+36 1 354 3820</string>
+    <string name="andrassy_web">http://visitbudapest.travel/guide/budapest-attractions/andrassy-avenue/</string>
+
+    <!--Matthias church-->
+    <string name="matthias">Matthias Church</string>
+    <string name="matthias_info">A turbulent history has seen the Matthias Church undergo several incarnations, yet with its
+    magestic dimensions and ornate style, it remains a star of Buda\'s Castle District. It\'s one of the most unique churches in Europe.
+    Located atop the Buda Castle hill, it has been serving the citizens of the Buda Castle Hill since 1015, its foundation by the first Hungarian king.</string>
+    <string name="matthias_address">Budapest, Szentháromság tér 2, 1014</string>
+    <string name="matthias_phone">+36 1 355 5657</string>
+
+    <!--Fisherman's -->
+    <string name="fisherman">Fisherman\'s Bastion</string>
+    <string name="fisherman_info">Named for the guild of fishermen that once defended Buda\'s Medieval riverbank,
+    Fisherman\'s Bastion\'s dramatic views have made it one of Budapest\'s most visited attractions. The Buda side castle wall was protected by the fishermen\'s
+        guild and this is the reason why it was called fishermen's Bastion.
+        Other people say, it got the name from the part of the city, which lies beneath the tower</string>
+    <string name="fisherman_address">Budapest, Szentháromság tér, 1014</string>
+    <string name="fisherman_phone">+36 1 458 3030</string>
+    <string name="fisherman_web">http://www.fishermansbastion.com/</string>
+
+    <!--Buda Castle!-->
+    <string name="buda">Buda Castle</string>
+    <string name="buda_info">The Buda Castle complex dates back to 1265 and housed the Kings of Hungary right up until 1918.
+        Buda Castle sits on the south tip of Castle Hill, bounded on the north by what is known as the Castle District (Várnegyed),
+        which is famous for medieval, Baroque and 19th-century houses, churches and public buildings. The hill is linked to Széchenyi Chain Bridge by the Castle Hill Funicular.
+        The castle is a part of the Budapest World Heritage Site, so declared in 1987 and this is Budapest's largest and most famous sight cannot be missed. Literally! </string>
+    <string name="buda_address">Budapest, Szent György tér 2, 1014</string>
+    <string name="buda_phone">+36 1 458 3000</string>
+    <string name="buda_web">http://budacastlebudapest.com/</string>
+
+    <!--St Stephen-->
+    <string name="stephen">St. Stephen\'s Basilica</string>
+    <string name="stephen_info">Named in honor of Hungary\'s first king,whose supposed right hand is housed in the reliquary.
+        St. Stephen\'s Basilica\'s outstanding beauty stands in stark contrast to the right hand
+        of St. Stephen kept among its relics!  It was the sixth largest church building in Hungary before 1920,Today, it is the third largest church building in present-day </string>
+    <string name="stephen_address">Budapest, Szent István tér 1, 1051</string>
+    <string name="stephen_phone">+36 1 311 0839</string>
+    <string name="stephen_web">http://www.bazilika.biz/</string>
+
+    <!--House-->
+    <string name="house">House of Terror</string>
+    <string name="house_info">The House of Terror is not simply a museum but a memorial to the victims of
+    the fascist and communist regimes analyzed within its exhibits.
+    Having survived two terror regimes, it was felt that the time had come for Hungary to erect a fitting memorial to the victims, and at the
+    same time to present a picture of what life was like for Hungarians in those times. </string>
+    <string name="house_address">Budapest, Andrássy út 60, 1062</string>
+    <string name="house_phone">+36 1 374 2600</string>
+    <string name="house_web">http://www.terrorhaza.hu/hu</string>
+
+    <!--Gellert-->
+    <string name="gellert">Gellert Hill</string>
+    <string name="gellert_info">Gellért Hill is a 140-m high dolomite rock rising above the Danube in Buda. The Hill, and its environs,
+        are part of the UNESCO’s World Heritage Sites along with the Banks of Danube in Pest
+        from Liberty Bridge to Margaret Island.There’s a huge fortress on top of Gellert Hill and it’s one of
+    my favorite places to shoot sunsets in Budapest. You get a sweeping panoramic view of Buda and Pest.
+    One side the view of Liberty Bridge and the other has a view of the Szechenyi Chain Bridge</string>
+    <string name="gellert_web">https://www.budapestbylocals.com/budapest-gellert-hill.html</string>
+    <string name="gellert_phone">+36 1 375 6451</string>
+
+    <!--Heroes-->
+    <string name="heroes">The Heroes’ Square</string>
+    <string name="heroes_info">Located at end of the famed Andrassy Avenue, this historic complex of statues deserves a
+    few visits and snaps with your camera. Representing the Seven Chieftains of the Magyars and other important Hungarian national leaders,
+        as well as the Tomb of the Unknown Soldier.The elegant memorial is a hotspot for tourists. But don’t let this dissuade you,
+    it’s still worth it for the postcard shots and if you’re willing to wait, the crowd dies down when
+    the sun comes down.</string>
+    <string name="heroes_phone">+36 1 322 4098</string>
+    <string name="heroes_web">https://en.wikipedia.org/wiki/H%C5%91s%C3%B6k_tere</string>
+
+
+    <!--Shoes-->
+    <string name="shoes">Shoes on the Danube Bank</string>
+    <string name="shoes_info">he memorial contains sixty pairs of metal shoes scattered along the Danube River. Each pair of shoes
+    mimicked the original WW2 pairs from the original owners. They represent the shows of Budapest Jews,
+    massacred by Nazis between 1944 and 1945. The victims had to take their shoes off, being the
+    most valuable belonging at the time, right before they form a line to get shot.</string>
+    <string name="shoes_address">Budapest, Id. Antall József rkp., 1054</string>
+    <string name="shoes_web">http://visitbudapest.travel/guide/budapest-attractions/shoes-on-the-danube/</string>
+    <string name="shoes_phone">+36 1 441 40 00</string>
+
+    <!--Bath-->
+    <string name="bath">Széchenyi thermal bath</string>
+    <string name="bath_info">This is the largest medicinal bath in Europe.
+        Its water is supplied by two thermal springs, their temperature is 74 °C (165 °F) and 77 °C (171 °F), respectively.
+        The location is close to the Heroes’ Square so you can use this spot as filler while you’re waiting for the ideal light.</string>
+    <string name="bath_address">Budapest, Állatkerti krt. 9-11, 1146</string>
+    <string name="bath_phone">+36 1 363 3210</string>
+    <string name="bath_web">http://www.szechenyifurdo.hu/</string>
+
+    <!--Market-->
+    <string name="market">Great Market Hall</string>
+    <string name="market_info">It’s the biggest market in Budapest and one of the oldest. The metal roof structure is still the original,
+        and the roof is covered with decorative Zsolnay tiles.This place is good to pass time during
+    the harsh daylight hours outside. The Liberty Bridge is close by so you can photograph this
+    place while waiting for good light.</string>
+    <string name="market_address">Budapest, Vámház krt. 1-3, 1093</string>
+    <string name="market_web">http://www.piaconline.hu/new/index.php</string>
+
+
+    <!--Liberty-->
+    <string name="liberty">Liberty Bridge</string>
+    <string name="liberty_info">The Liberty Bridge is one of the oldest bridge in Budapest. Built between 1849 and 1896 in
+    steampunk style with the green color and overly ornate decorations. It lights up the Danube at
+    night and the blazing illumination makes it an amazing object to photograph.The Liberty Bridge is the shortest bridge in Budapest’s center.
+        Initially built as part of the Millennium World Exhibition at the end of the 19th century, the bridge features art nouveau design, mythological
+        sculptures and the country’s coat of arms adorned on its side.</string>
+    <string name="liberty_address">Vamhaz korut</string>
+    <string name="liberty_web">http://www.bridgesofbudapest.com/bridge/liberty_bridge</string>
+    <string name="liberty_phone">+36 1 441 40 00</string>
+
+    <!--Onix-->
+    <string name="onix">Onyx</string>
+    <string name="onix_address">1051 Budapest, Vörösmarty tér 7-8</string>
+    <string name="onix_phone">+36 30 508 0622</string>
+    <string name="onix_web">http://onyxrestaurant.hu/en/</string>
+    <string name="onix_info">Gourmet cuisine and tasting menus with wine pairings, in regal dining room with Regency chairs. Onyx Restaurant has been awarded with its second Michelin star in 2018</string>
+
+    <!--Costes-->
+    <string name="costes">Costes</string>
+    <string name="costes_adress">Budapest, Ráday u. 4, 1092</string>
+    <string name="costes_phone">+36 1 219 0696</string>
+    <string name="costes_web">http://www.costes.hu/intro.html</string>
+    <string name="costes_info">They strive each day to give the meaning to this word that represents our values: the quality without compromises, masterful tastes, the artistic presentation, the attention to details,
+        a mindful service, a pleasant atmosphere and an informal and calm fine dining experience. May the name Costes express the ever repeating but unique experience that requires so many:
+        the conscientious producer, the flexible supplier, the resolute staff and a connoisseur guest:You</string>
+
+    <!--Trofea-->
+    <string name="trofea">Trófea Grill Restaurant</string>
+    <string name="trofea_web">http://kiraly.trofeagrill.eu/</string>
+    <string name="trofea_phone">+36 1 878 0522</string>
+    <string name="trofea_address">1061 Budapest, Király u. 30-32.</string>
+    <string name="trofea_info">Trófea Grill Restaurant near the city centre will solve your present selection dilemma,
+        as with the gift voucher you will surely be popular among every generation.
+    The owner of the voucher can freely select when she/he wants to have resort to the unlimited consumption from our buffet
+        selection, which applies to more than 100 types of food items as well as our drink offers.</string>
+
+</resources>
